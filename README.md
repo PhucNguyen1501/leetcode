@@ -4,3 +4,4 @@
 |---| ----- | -------- | ------- |
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js)|92 ms|
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./solutions/27.%20Remove%20Element.js)|76 ms|
+|283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./solutions/283.%20Move%20Zeroes.js)|88 ms|
